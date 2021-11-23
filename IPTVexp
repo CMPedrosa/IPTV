@@ -1,2 +1,8 @@
 #EXTM3U
-https://tv.verabola.com/dv/676397581?h=d2963b570be46850354224adcac2b957b2ba54cf4c148354f577fbe74b0a5b78.m3u8
+#EXT-X-PLAYLIST-TYPE:EVENT
+#EXTINF:-1 tvg-chno="0" group-title="HDTV" group-title="Live TV" tvg-name="Sport TV 1 HD" type="mpeg",Sport TV 1 HD
+https://xn--n2aa4bb.xn--h1aaa.xn--e1a4c/M6iakHOGk7/M6iakHOGk7.m3u8?hash=yCp9-bO7XQs1VimDdAOwbA&id=676397581&ips=62.28.66.182
+#EXTINF:-1 tvg-chno="0" group-title="HDTV" group-title="Live TV" tvg-name="Eleven Sports 3" type="mpeg",Eleven Sports 3
+https://xn--n2aa4bb.xn--h1aaa.xn--e1a4c/hPu9Z2wLit/hPu9Z2wLit.m3u8?hash=cACrlwFDxI9pEx7yIRQcRg&id=676397581&ips=62.28.66.182
+#EXTINF:-1 tvg-chno="0" group-title="HDTV" group-title="Live TV" tvg-name="Sport TV 2 HD" type="mpeg",Sport TV 2 HD
+https://xn--n2aa4bb.xn--h1aaa.xn--e1a4c/FHDRrXGKO2/FHDRrXGKO2.m3u8?hash=OVQ1Sn3gHwLy5coAKcXLEg&id=676397581&ips=62.28.66.182
