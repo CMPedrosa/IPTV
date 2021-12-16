@@ -1,8 +1,214 @@
 #EXTM3U
-#EXT-X-PLAYLIST-TYPE:EVENT
-#EXTINF:-1 tvg-chno="0" group-title="HDTV" group-title="Live TV" tvg-name="Sport TV 1 HD" type="mpeg",Sport TV 1 HD
-https://xn--n2aa4bb.xn--h1aaa.xn--e1a4c/M6iakHOGk7/M6iakHOGk7.m3u8?hash=yCp9-bO7XQs1VimDdAOwbA&id=676397581&ips=62.28.66.182
-#EXTINF:-1 tvg-chno="0" group-title="HDTV" group-title="Live TV" tvg-name="Eleven Sports 3" type="mpeg",Eleven Sports 3
-https://xn--n2aa4bb.xn--h1aaa.xn--e1a4c/hPu9Z2wLit/hPu9Z2wLit.m3u8?hash=cACrlwFDxI9pEx7yIRQcRg&id=676397581&ips=62.28.66.182
-#EXTINF:-1 tvg-chno="0" group-title="HDTV" group-title="Live TV" tvg-name="Sport TV 2 HD" type="mpeg",Sport TV 2 HD
-https://xn--n2aa4bb.xn--h1aaa.xn--e1a4c/FHDRrXGKO2/FHDRrXGKO2.m3u8?hash=OVQ1Sn3gHwLy5coAKcXLEg&id=676397581&ips=62.28.66.182
+#EXTINF:-1,PT: Eleven Sport 1 HD
+http://cdn.ayproviders.xyz:80/5UPzqC2HbL/zRfWUL3YY4/96873
+#EXTINF:-1,PT: Eleven Sport 2 HD
+http://cdn.ayproviders.xyz:80/5UPzqC2HbL/zRfWUL3YY4/96874
+#EXTINF:-1,PT: Eleven Sport 3 HD
+http://cdn.ayproviders.xyz:80/5UPzqC2HbL/zRfWUL3YY4/96875
+#EXTINF:-1,PT: Eleven Sport 4 HD
+http://cdn.ayproviders.xyz:80/5UPzqC2HbL/zRfWUL3YY4/96876
+#EXTINF:-1,PT: Eleven Sport 5 HD
+http://cdn.ayproviders.xyz:80/5UPzqC2HbL/zRfWUL3YY4/96877
+#EXTINF:-1,PT: Eleven Sport 6 HD
+http://cdn.ayproviders.xyz:80/5UPzqC2HbL/zRfWUL3YY4/96878
+#EXTINF:-1,PT: SPORT TV 1 FullHD
+http://cdn.ayproviders.xyz:80/5UPzqC2HbL/zRfWUL3YY4/96879
+#EXTINF:-1,PT: SPORT TV 2 FullHD
+http://cdn.ayproviders.xyz:80/5UPzqC2HbL/zRfWUL3YY4/96880
+#EXTINF:-1,PT: SPORT TV 3 FullHD
+http://cdn.ayproviders.xyz:80/5UPzqC2HbL/zRfWUL3YY4/96881
+#EXTINF:-1,PT: SPORT TV 4 FullHD
+http://cdn.ayproviders.xyz:80/5UPzqC2HbL/zRfWUL3YY4/96882
+#EXTINF:-1,PT: SPORT TV 5 FullHD
+http://cdn.ayproviders.xyz:80/5UPzqC2HbL/zRfWUL3YY4/96883
+#EXTINF:-1,PT: BENFICA TV HD
+http://cdn.ayproviders.xyz:80/5UPzqC2HbL/zRfWUL3YY4/96884
+#EXTINF:-1,PT: SPORTING TV
+http://cdn.ayproviders.xyz:80/5UPzqC2HbL/zRfWUL3YY4/96885
+#EXTINF:-1,PT: SPORT TV + HD
+http://cdn.ayproviders.xyz:80/5UPzqC2HbL/zRfWUL3YY4/96886
+http://toptentv.xyz:8080/3143333180178705/2598854265/193603
+#EXTINF:-1,|PT| SPORT TV 4K UHD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193604
+#EXTINF:-1,|PT| SPORT TV FHD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193605
+#EXTINF:-1,|PT| SPORT TV
+http://toptentv.xyz:8080/3143333180178705/2598854265/193606
+#EXTINF:-1,|PT| SPORT TV HEVC
+http://toptentv.xyz:8080/3143333180178705/2598854265/193607
+#EXTINF:-1,|PT| SPORTTV 1 HD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193608
+#EXTINF:-1,|PT| SPORT TV 1
+http://toptentv.xyz:8080/3143333180178705/2598854265/193609
+#EXTINF:-1,|PT| SPORT TV 1 HEVC
+http://toptentv.xyz:8080/3143333180178705/2598854265/193610
+#EXTINF:-1,|PT| SPORT TV 2
+http://toptentv.xyz:8080/3143333180178705/2598854265/193611
+#EXTINF:-1,|PT| SPORT TV 2 HD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193612
+#EXTINF:-1,|PT| SPORT TV 2 HEVC
+http://toptentv.xyz:8080/3143333180178705/2598854265/193613
+#EXTINF:-1,|PT| SPORT TV 3
+http://toptentv.xyz:8080/3143333180178705/2598854265/193614
+#EXTINF:-1,|PT| SPORT TV 3 HD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193615
+#EXTINF:-1,|PT| SPORT TV 3 HEVC
+http://toptentv.xyz:8080/3143333180178705/2598854265/193616
+#EXTINF:-1,|PT| SPORT TV 4
+http://toptentv.xyz:8080/3143333180178705/2598854265/193617
+#EXTINF:-1,|PT| SPORT TV 4 HEVC
+http://toptentv.xyz:8080/3143333180178705/2598854265/193618
+#EXTINF:-1,|PT| SPORT TV 5 HEVC
+http://toptentv.xyz:8080/3143333180178705/2598854265/193619
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 HD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193620
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 HEVC
+http://toptentv.xyz:8080/3143333180178705/2598854265/193621
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 HD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193622
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 HEVC
+http://toptentv.xyz:8080/3143333180178705/2598854265/193623
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 HD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193624
+#EXTINF:-1,|PT| ELEVEN SPORT 3 HEVC
+http://toptentv.xyz:8080/3143333180178705/2598854265/193625
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 HD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193626
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 HD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193627
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 HD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193628
+#EXTINF:-1,|PT| SPORTING TV FHD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193629
+#EXTINF:-1,|PT| SPORTING TV
+http://toptentv.xyz:8080/3143333180178705/2598854265/193630
+#EXTINF:-1,|PT| BTV FHD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193631
+#EXTINF:-1,|PT| BTV 1
+http://toptentv.xyz:8080/3143333180178705/2598854265/193632
+#EXTINF:-1,|PT| BTV 1 HD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193633
+#EXTINF:-1,|PT| EUROSPORT 1 HD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193634
+#EXTINF:-1,|PT| EUROSPORT 1 HEVC
+http://toptentv.xyz:8080/3143333180178705/2598854265/193635
+#EXTINF:-1,|PT| EUROSPORT 2 FHD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193636
+#EXTINF:-1,|PT| EUROSPORT 2
+http://toptentv.xyz:8080/3143333180178705/2598854265/193637
+#EXTINF:-1,|PT| KOMBAT SPORT
+http://toptentv.xyz:8080/3143333180178705/2598854265/193638
+#EXTINF:-1,|PT| PFC
+http://toptentv.xyz:8080/3143333180178705/2598854265/193639
+#EXTINF:-1,|PT| FUEL TV HD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193640
+#EXTINF:-1,|PT| FUEL TV
+http://toptentv.xyz:8080/3143333180178705/2598854265/193641
+#EXTINF:-1,|PT| NBA FHD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193642
+#EXTINF:-1,|PT| NBA TV HEVC
+http://toptentv.xyz:8080/3143333180178705/2598854265/193643
+#EXTINF:-1,|PT| NBA TV HEVC
+http://toptentv.xyz:8080/3143333180178705/2598854265/193644
+#EXTINF:-1,|PT| MOTORVISION FHD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193645
+#EXTINF:-1,|PT| MOTORVISION
+http://toptentv.xyz:8080/3143333180178705/2598854265/193646
+#EXTINF:-1,|PT| TOROS HD
+http://toptentv.xyz:8080/3143333180178705/2598854265/193647
+#EXTINF:-1,|PT| TOROS TV
+http://toptentv.xyz:8080/3143333180178705/2598854265/193648
+#EXTINF:-1,[PT] SPORT.TV+ FHD
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2681
+#EXTINF:-1,[PT] SPORT.TV+ 
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2680
+#EXTINF:-1,[PT] SPORT.TV 1 FHD
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2679
+#EXTINF:-1,[PT] SPORT.TV 1 
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2678
+#EXTINF:-1,[PT] SPORT .TV 2 FHD
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2677
+#EXTINF:-1,[PT] SPORT.TV 2
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2676
+#EXTINF:-1,[PT] SPORT.TV 3 FHD
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2675
+#EXTINF:-1,[PT] SPORT.TV 3
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2674
+#EXTINF:-1,[PT] SPORT.TV 4
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2673
+#EXTINF:-1,[PT] SPORT.TV 5
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2672
+#EXTINF:-1,[PT] ELEVEN SPORTS 1 FHD
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2671
+#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2670
+#EXTINF:-1,[PT] ELEVEN SPORTS 2 FHD
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2669
+#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2668
+#EXTINF:-1,[PT] ELEVEN SPORTS 3
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2667
+#EXTINF:-1,[PT] ELEVEN SPORTS 4
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2666
+#EXTINF:-1,[PT] ELEVEN SPORTS 5
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2665
+#EXTINF:-1,[PT] ELEVEN SPORTS 6
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2664
+#EXTINF:-1,[PT] CANAL 11 FHD
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2663
+#EXTINF:-1,[PT] BENFICA TV 1 FHD
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2662
+#EXTINF:-1,[PT] BENFICA TV 1 HD
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2661
+#EXTINF:-1,[PT] SPORTINGT TV
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2660
+#EXTINF:-1,[PT] A BOLA TV FHD
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2659
+#EXTINF:-1,[PT] PFC
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2658
+#EXTINF:-1,[PT] KOMBAT SPORT
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2657
+#EXTINF:-1,[PT] NBA TV
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2656
+#EXTINF:-1,[PT] EUROSPORT 1
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2655
+#EXTINF:-1,[PT] EUROSPORT 2
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2654
+#EXTINF:-1,[PT] TOROS TV
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/2653
+#EXTINF:-1,PT: Sport TV 4
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66275
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66276
+#EXTINF:-1,PT: Sport TV 3 HD
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66277
+#EXTINF:-1,PT: Sport TV 2 HD
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66278
+#EXTINF:-1,PT: Sport TV 2 FHD
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66280
+#EXTINF:-1,PT: Sport TV 1 HD
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66281
+#EXTINF:-1,PT: Sport TV 1 FHD
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66282
+#EXTINF:-1,PT: SPORT TV NBA
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66283
+#EXTINF:-1,PT: SPORT TV HD
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66284
+#EXTINF:-1,PT: Sporting TV
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66342
+#EXTINF:-1,PT: Sport TV 5
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66343
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66344
+#EXTINF:-1,PT: Eleven Sports 1 HD VIP
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66345
+#EXTINF:-1,PT: Eleven Sports 2 HD VIP
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66348
+#EXTINF:-1,PT: Eleven Sports 3 HD VIP
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66353
+#EXTINF:-1,PT: Eleven Sports 4 HD VIP
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66356
+#EXTINF:-1,PT: Eleven Sports 5 HD VIP
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66359
+#EXTINF:-1,PT: Eleven Sports 6 HD VIP
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/66362
