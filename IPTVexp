@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="===== DESPORTO ===== "
+#EXTINF:-1  group-title="===== DESPORTO ===== "
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342108
 #EXTINF:-1,PT- SPORT TV +
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342107
