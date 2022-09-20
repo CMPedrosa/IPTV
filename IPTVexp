@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  group-title="===== DESPORTO ===== "
+#EXTINF:-1  group-title=" DESPORTO "
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342108
 #EXTINF:-1,PT- SPORT TV +
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342107
@@ -73,7 +73,7 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342074
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342073
 #EXTINF:-1,PT- PFC
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342072
-#EXTINF:-1 tvg-ID="" tvg-name="===== LIVE DESPORTO ===== "
+#EXTINF:-1  group-title=" LIVE DESPORTO "
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338389
 #EXTINF:-1,Dsp: Dazn F1 FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338388
@@ -157,7 +157,7 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338350
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338349
 #EXTINF:-1,PT VIP : BTV [1080p / HEVC]
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338348
-#EXTINF:-1 tvg-ID="" tvg-name="===== GENERALISTAS ===== "
+#EXTINF:-1  group-title=" GENERALISTAS "
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342136
 #EXTINF:-1,RTP 1 HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342135
@@ -175,7 +175,7 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342130
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342129
 #EXTINF:-1,PT- TVI FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342128
-#EXTINF:-1 tvg-ID="" tvg-name="===== INFORMACAO ===== "
+#EXTINF:-1  group-title=" INFORMACAO "
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342127
 #EXTINF:-1,PT- CMTV
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342126
@@ -213,7 +213,7 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342111
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342110
 #EXTINF:-1,CNBC
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342109
-#EXTINF:-1 tvg-ID="" tvg-name="===== ENTERTENIMENTO ===== "
+#EXTINF:-1  group-title=" ENTERTENIMENTO "
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342071
 #EXTINF:-1,PT- TVI FICCAO
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342070
@@ -405,7 +405,7 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341979
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341978
 #EXTINF:-1,ZAP Viva HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341977
-#EXTINF:-1 tvg-ID="" tvg-name="===== LIVE ===== "
+#EXTINF:-1  group-title=" LIVE "
 #EXTINF:-1,MotoGP: On Board Camera 4 (Events Only)
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338428
 #EXTINF:-1,MotoGP: On Board Camera 3 (Events Only)
@@ -548,6 +548,7 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/294877
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/294878
 #EXTINF:-1,44 | Lewis Hamilton | Mercedes
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/294879
+#EXTINF:-1  group-title=" LOW "
 #EXTINF:-1,RTP 1 [low]
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/287395
 #EXTINF:-1,RTP 2 [low]
@@ -634,7 +635,7 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/287436
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/287437
 #EXTINF:-1,MTV [low]
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/287438
-#EXTINF:-1 tvg-ID="" tvg-name="===== BRASIL ===== "
+#EXTINF:-1  group-title=" BRASIL "
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/326632
 #EXTINF:-1,BBB 22
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/326631
@@ -826,7 +827,7 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/326539
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/326538
 #EXTINF:-1,BIS
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/326537
-#EXTINF:-1 tvg-ID="" tvg-name="===== EXCLUSIVOS ===== "
+#EXTINF:-1  group-title=" EXCLUSIVOS "
 #EXTINF:-1,HorÃ¡rios estudos em casa
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/337260
 #EXTINF:-1,Estudo em casa
@@ -1133,7 +1134,7 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/328798
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/330181
 #EXTINF:-1,TPA
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342822
-#EXTINF:-1,â–ºâ–ºâ–ºBOUQUET FRANCE â—„â—„â—„
+#EXTINF:-1  group-title=" FILMES "
 #EXTINF:-1,O Capacete Dourado - 2007
 http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/342819.mkv
 #EXTINF:-1,Km 224 - 2022
@@ -5724,7 +5725,7 @@ http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/323000.mp4
 http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/322999.mp4
 #EXTINF:-1,3 Lives  (2019)
 http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/322998.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="===== ADULTOS ===== "
+#EXTINF:-1  group-title=" PLAY "
 #EXTINF:-1,Teeny Teens Do Nerdy Nerds 2 [XXX]
 http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/330523.mp4
 #EXTINF:-1,MILF Mothers I Like To Fuck 4 [XXX]
