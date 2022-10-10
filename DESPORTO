@@ -22,62 +22,110 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.5.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 6 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.6.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",eleven1
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",eleven1
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",eleven3
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",eleven3
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 UHD PT
 http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19158/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Eleven Sports
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.us.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BTV
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",BTV
 http://red.ipfox.org:8080/osama2022/osama2023/49362?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Eleven 2
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven 2
 http://red.ipfox.org:8080/osama2022/osama2023/49367?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Eleven 3
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven 3
 http://red.ipfox.org:8080/osama2022/osama2023/49366?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Eleven 4
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven 4
 http://red.ipfox.org:8080/osama2022/osama2023/49365?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Eleven 5
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven 5
 http://red.ipfox.org:8080/osama2022/osama2023/49364?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Eleven 6
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven 6
 http://red.ipfox.org:8080/osama2022/osama2023/49363?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 1 FHD PT
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69004?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport",Eleven Sports 1 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159576?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 1 HD PT
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69003?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 1 PT
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69002?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 2 FHD
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69007?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nicepng.com/png/detail/140-1402045_eleven-sports-eleven-sports-2-logo.png" group-title="Sport",Eleven Sports 2 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159577?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 2 HD
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69006?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 2 PT
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69005?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 3 FHD PT
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69010?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png" group-title="Sport",Eleven Sports 3 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159578?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 3 HD PT
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69009?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 3 PT
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69008?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 4 FHD PT
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69011?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport",Eleven Sports 4 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 5 FHD PT
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69012?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport",Eleven Sports 5 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159580?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 6 FHD PT
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69013?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport",Eleven Sports 6 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159581?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport",Eleven Sports 4 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",BTV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/111?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 1
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237022?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237023?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 3
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237024?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 4
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237025?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 5
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237026?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 6
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/143?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="Sport",Benfica TV
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159587?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Benfica TV HD PT
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68986?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Benfica TV PT
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68987?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Benfica TV PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/benfica.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170957?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/206?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/7688?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 4
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11073?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 5
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11074?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 1 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv1.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 2 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv2.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 3 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv3.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 4 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv4.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 5 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv5.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 6
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv6.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV Plus PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV2 HD
+http://red.ipfox.org:8080/osama2022/osama2023/49373?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV3 HD
+http://red.ipfox.org:8080/osama2022/osama2023/49372?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV4 HD
+http://red.ipfox.org:8080/osama2022/osama2023/49371?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV5 HD
+http://red.ipfox.org:8080/osama2022/osama2023/49370?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV6 HD
+http://red.ipfox.org:8080/osama2022/osama2023/49369?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://4.bp.blogspot.com/-n9K7acPmDMo/XOXfES67NMI/AAAAAAAAA0E/KXGHwm0UH48sFPQUf8NBYv90yNdeHw39wCLcBGAs/w1200-h630-p-k-no-nu/SPORTV2.png" group-title="Sport",Sport Tv 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159583?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/9f/82/f0/9f82f0a2a590bf589bb97c5c03588ac5.png" group-title="Sport",Sport Tv 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159584?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qypxry1470408244.png" group-title="Sport",Sport Tv 4
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159585?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://4.bp.blogspot.com/-1bfy5vanEGY/WsDjF2WOC_I/AAAAAAAAAE8/DpClCnT7A-cVOo9kPN0haU1w6fPGiD7wQCEwYBhgL/s1600/sporttv5.png" group-title="Sport",Sport Tv 5
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159586?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.seekpng.com/png/full/357-3578768_sport-tv-1-hd.png" group-title="Sport",Sport Tv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159582?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",11
+http://red.ipfox.org:8080/osama2022/osama2023/49344?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",canal11
+http://62.28.71.186:45678/http/192.168.150.50:7050/canal11?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",sporttvmais
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais?checkedby:iptvcat.com
 #EXTINF:-1,|PT| Sport TV + HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49374
 #EXTINF:-1,|PT| Sport TV2 HD
@@ -274,27 +322,3 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338350
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338349
 #EXTINF:-1,PT VIP : BTV [1080p / HEVC]
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338348
-#EXTINF:-1,PT : Eleven Sport 1
-http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1399
-#EXTINF:-1,PT : Eleven Sport 2
-http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1400
-#EXTINF:-1,PT : Eleven Sport 3
-http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1401
-#EXTINF:-1,PT : Eleven Sport 4
-http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1402
-#EXTINF:-1,PT : Eleven Sport 5
-http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1403
-#EXTINF:-1,PT : Eleven Sport 6
-http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1404
-#EXTINF:-1,PT : SPORT TV 1
-http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1448
-#EXTINF:-1,PT : SPORT TV 2
-http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1449
-#EXTINF:-1,PT : SPORT TV 3
-http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1450
-#EXTINF:-1,PT : SPORT TV 3
-http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1451
-#EXTINF:-1,PT : SPORT TV 4
-http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1452
-#EXTINF:-1,PT : SPORT TV 5
-http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1453
