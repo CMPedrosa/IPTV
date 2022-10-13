@@ -70,10 +70,6 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237026?checkedby:iptvcat.com
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/143?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="Sport",Benfica TV
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159587?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Benfica TV HD PT
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68986?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Benfica TV PT
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68987?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Benfica TV PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/benfica.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
@@ -126,6 +122,16 @@ http://red.ipfox.org:8080/osama2022/osama2023/49344?checkedby:iptvcat.com
 http://62.28.71.186:45678/http/192.168.150.50:7050/canal11?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",sporttvmais
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",BENFICA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11067?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",BENFICA1
+http://cineapp.org:8000/Fernando/Fernando/2301?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",CANAL 11
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/120?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 FHD
+http://cineapp.org:8000/Fernando/Fernando/28538?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 SD
+http://cineapp.org:8000/Fernando/Fernando/5151?checkedby:iptvcat.com
 #EXTINF:-1,|PT| Sport TV + HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49374
 #EXTINF:-1,|PT| Sport TV2 HD
@@ -322,3 +328,215 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338350
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338349
 #EXTINF:-1,PT VIP : BTV [1080p / HEVC]
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338348
+#EXTINF:-1,SPORT.TV1
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/40
+#EXTINF:-1,SPORT.TV1á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/38
+#EXTINF:-1,SPORT.TV1á¶ á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/39
+#EXTINF:-1,SPORT.TV1 á´´Â²â¶âµ
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/5438
+#EXTINF:-1,SPORT.TV2
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/37
+#EXTINF:-1,SPORT.TV2á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/35
+#EXTINF:-1,SPORT.TV2á¶ á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/36
+#EXTINF:-1,SPORT.TV2 á´´Â²â¶âµ
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/5439
+#EXTINF:-1,SPORT.TV3
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/34
+#EXTINF:-1,SPORT.TV3á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/32
+#EXTINF:-1,SPORT.TV3á¶ á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/33
+#EXTINF:-1,SPORT.TV3á´´Â²â¶âµ
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/21427
+#EXTINF:-1,SPORT.TV4
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/31
+#EXTINF:-1,SPORT.TV4á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/363
+#EXTINF:-1,SPORT.TV4á¶ á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/1992
+#EXTINF:-1,SPORT.TV5
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/30
+#EXTINF:-1,SPORT.TV5á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/362
+#EXTINF:-1,SPORT.TV5á¶ á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/1993
+#EXTINF:-1,SPORT.TV6á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/60546
+#EXTINF:-1,SPORT.TV6á¶ á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/36497
+#EXTINF:-1,Benfica TV	
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/124
+#EXTINF:-1,Benfica TVá´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/122
+#EXTINF:-1,Benfica TVá¶ á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/123
+#EXTINF:-1,BENFICA TV á´´Â²â¶âµ
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/5443
+#EXTINF:-1,Benfica TV 4K UHD
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/16974
+#EXTINF:-1,Eleven Sports 1
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/370
+#EXTINF:-1,Eleven Sports 1á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/667
+#EXTINF:-1,Eleven Sports 1á¶ á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/102
+#EXTINF:-1,Eleven Sports 1á´´Â²â¶âµ
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/22442
+#EXTINF:-1,Eleven Sports 1 4K UHD
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/16975
+#EXTINF:-1,Eleven Sports 2
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/368
+#EXTINF:-1,Eleven Sports 2á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/367
+#EXTINF:-1,Eleven Sports 2á¶ á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/101
+#EXTINF:-1,Eleven Sports 3
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/100
+#EXTINF:-1,Eleven Sports 3á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/365
+#EXTINF:-1,Eleven Sports 3á¶ á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/366
+#EXTINF:-1,Eleven Sports 4
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/99
+#EXTINF:-1,Eleven Sports 4á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/1990
+#EXTINF:-1,Eleven Sports 4á¶ á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/1991
+#EXTINF:-1,Eleven Sports 5
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/98
+#EXTINF:-1,Eleven Sports 5á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/60547
+#EXTINF:-1,Eleven Sports 5á¶ á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/60548
+#EXTINF:-1,Eleven Sports 6
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/97
+#EXTINF:-1,Eleven Sports 6á¶ á´´á´°
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/60549
+#EXTINF:-1,Sport TV 1á´¸á´¼áµ‚
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/18846
+#EXTINF:-1,Sport TV 2á´¸á´¼áµ‚
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/18847
+#EXTINF:-1,Sport TV 3á´¸á´¼áµ‚
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/18848
+#EXTINF:-1,Sport TV 4á´¸á´¼áµ‚
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/18849
+#EXTINF:-1,Sport TV 5á´¸á´¼áµ‚
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/18850
+#EXTINF:-1,Benfica TVá´¸á´¼áµ‚
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/18852
+#EXTINF:-1,Eleven Sports 1á´¸á´¼áµ‚
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/18853
+#EXTINF:-1,Eleven Sports 2á´¸á´¼áµ‚
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/18854
+#EXTINF:-1,Eleven Sports 3á´¸á´¼áµ‚
+http://novo1.xyz:8080/msantos/xtsNyQW6yc/18855
+#EXTINF:-1,SPORT.TV1
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/40
+#EXTINF:-1,SPORT.TV1á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/38
+#EXTINF:-1,SPORT.TV1á¶ á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/39
+#EXTINF:-1,SPORT.TV1 á´´Â²â¶âµ
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/5438
+#EXTINF:-1,SPORT.TV2
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/37
+#EXTINF:-1,SPORT.TV2á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/35
+#EXTINF:-1,SPORT.TV2á¶ á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/36
+#EXTINF:-1,SPORT.TV2 á´´Â²â¶âµ
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/5439
+#EXTINF:-1,SPORT.TV3
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/34
+#EXTINF:-1,SPORT.TV3á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/32
+#EXTINF:-1,SPORT.TV3á¶ á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/33
+#EXTINF:-1,SPORT.TV3á´´Â²â¶âµ
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/21427
+#EXTINF:-1,SPORT.TV4
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/31
+#EXTINF:-1,SPORT.TV4á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/363
+#EXTINF:-1,SPORT.TV4á¶ á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/1992
+#EXTINF:-1,SPORT.TV5
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/30
+#EXTINF:-1,SPORT.TV5á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/362
+#EXTINF:-1,SPORT.TV5á¶ á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/1993
+#EXTINF:-1,SPORT.TV6á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/60546
+#EXTINF:-1,SPORT.TV6á¶ á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/36497
+#EXTINF:-1,Benfica TV	
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/124
+#EXTINF:-1,Benfica TVá´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/122
+#EXTINF:-1,Benfica TVá¶ á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/123
+#EXTINF:-1,BENFICA TV á´´Â²â¶âµ
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/5443
+#EXTINF:-1,Benfica TV 4K UHD
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/16974
+#EXTINF:-1,Eleven Sports 1
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/370
+#EXTINF:-1,Eleven Sports 1á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/667
+#EXTINF:-1,Eleven Sports 1á¶ á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/102
+#EXTINF:-1,Eleven Sports 1á´´Â²â¶âµ
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/22442
+#EXTINF:-1,Eleven Sports 1 4K UHD
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/16975
+#EXTINF:-1,Eleven Sports 2
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/368
+#EXTINF:-1,Eleven Sports 2á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/367
+#EXTINF:-1,Eleven Sports 2á¶ á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/101
+#EXTINF:-1,Eleven Sports 3
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/100
+#EXTINF:-1,Eleven Sports 3á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/365
+#EXTINF:-1,Eleven Sports 3á¶ á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/366
+#EXTINF:-1,Eleven Sports 4
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/99
+#EXTINF:-1,Eleven Sports 4á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/1990
+#EXTINF:-1,Eleven Sports 4á¶ á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/1991
+#EXTINF:-1,Eleven Sports 5
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/98
+#EXTINF:-1,Eleven Sports 5á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/60547
+#EXTINF:-1,Eleven Sports 5á¶ á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/60548
+#EXTINF:-1,Eleven Sports 6
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/97
+#EXTINF:-1,Eleven Sports 6á¶ á´´á´°
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/60549
+#EXTINF:-1,Sport TV 1á´¸á´¼áµ‚
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/18846
+#EXTINF:-1,Sport TV 2á´¸á´¼áµ‚
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/18847
+#EXTINF:-1,Sport TV 3á´¸á´¼áµ‚
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/18848
+#EXTINF:-1,Sport TV 4á´¸á´¼áµ‚
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/18849
+#EXTINF:-1,Sport TV 5á´¸á´¼áµ‚
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/18850
+#EXTINF:-1,Benfica TVá´¸á´¼áµ‚
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/18852
+#EXTINF:-1,Eleven Sports 1á´¸á´¼áµ‚
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/18853
+#EXTINF:-1,Eleven Sports 2á´¸á´¼áµ‚
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/18854
+#EXTINF:-1,Eleven Sports 3á´¸á´¼áµ‚
+http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/18855
