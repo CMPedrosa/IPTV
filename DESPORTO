@@ -2,14 +2,10 @@
 #EXTINF:-1  group-title=" DESPORTO "
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT1
 http://cineapp.org:8000/Fernando/Fernando/7451?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT2
-http://cineapp.org:8000/Fernando/Fernando/7452?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT3
 http://cineapp.org:8000/Fernando/Fernando/7453?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT4
 http://cineapp.org:8000/Fernando/Fernando/7454?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT6
-http://cineapp.org:8000/Fernando/Fernando/7456?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 1 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.1.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 2 PT
@@ -22,26 +18,10 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.5.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 6 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.6.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",eleven1
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",eleven3
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 UHD PT
 http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19158/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Eleven Sports
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.us.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",BTV
-http://red.ipfox.org:8080/osama2022/osama2023/49362?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven 2
-http://red.ipfox.org:8080/osama2022/osama2023/49367?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven 3
-http://red.ipfox.org:8080/osama2022/osama2023/49366?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven 4
-http://red.ipfox.org:8080/osama2022/osama2023/49365?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven 5
-http://red.ipfox.org:8080/osama2022/osama2023/49364?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven 6
-http://red.ipfox.org:8080/osama2022/osama2023/49363?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport",Eleven Sports 1 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159576?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nicepng.com/png/detail/140-1402045_eleven-sports-eleven-sports-2-logo.png" group-title="Sport",Eleven Sports 2 HD
@@ -54,34 +34,10 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159580?checkedby:iptvcat.com
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159581?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport",Eleven Sports 4 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",BTV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/111?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237022?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237023?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 3
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237024?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 4
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237025?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 5
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237026?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 6
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/143?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="Sport",Benfica TV
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="Undefined",Benfica TV
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159587?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Benfica TV PT
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Benfica TV PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/benfica.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170957?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/206?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/7688?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 4
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11073?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 5
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11074?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 1 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv1.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 2 PT
@@ -96,42 +52,28 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.t
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv6.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV Plus PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV2 HD
-http://red.ipfox.org:8080/osama2022/osama2023/49373?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV3 HD
-http://red.ipfox.org:8080/osama2022/osama2023/49372?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV4 HD
-http://red.ipfox.org:8080/osama2022/osama2023/49371?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV5 HD
-http://red.ipfox.org:8080/osama2022/osama2023/49370?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV6 HD
-http://red.ipfox.org:8080/osama2022/osama2023/49369?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://4.bp.blogspot.com/-n9K7acPmDMo/XOXfES67NMI/AAAAAAAAA0E/KXGHwm0UH48sFPQUf8NBYv90yNdeHw39wCLcBGAs/w1200-h630-p-k-no-nu/SPORTV2.png" group-title="Sport",Sport Tv 2 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159583?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/9f/82/f0/9f82f0a2a590bf589bb97c5c03588ac5.png" group-title="Sport",Sport Tv 3 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159584?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qypxry1470408244.png" group-title="Sport",Sport Tv 4
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159585?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://4.bp.blogspot.com/-1bfy5vanEGY/WsDjF2WOC_I/AAAAAAAAAE8/DpClCnT7A-cVOo9kPN0haU1w6fPGiD7wQCEwYBhgL/s1600/sporttv5.png" group-title="Sport",Sport Tv 5
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159586?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.seekpng.com/png/full/357-3578768_sport-tv-1-hd.png" group-title="Sport",Sport Tv HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159582?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",11
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",11
 http://red.ipfox.org:8080/osama2022/osama2023/49344?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",canal11
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",canal11
 http://62.28.71.186:45678/http/192.168.150.50:7050/canal11?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",sporttvmais
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",BENFICA TV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11067?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",BENFICA1
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BENFICA1
 http://cineapp.org:8000/Fernando/Fernando/2301?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",CANAL 11
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/120?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT2
+http://cineapp.org:8000/Fernando/Fernando/7452?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT6
+http://cineapp.org:8000/Fernando/Fernando/7456?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 FHD
 http://cineapp.org:8000/Fernando/Fernando/28538?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 SD
-http://cineapp.org:8000/Fernando/Fernando/5151?checkedby:iptvcat.com
 #EXTINF:-1,|PT| Sport TV + HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49374
 #EXTINF:-1,|PT| Sport TV2 HD
@@ -540,3 +482,327 @@ http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/18853
 http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/18854
 #EXTINF:-1,Eleven Sports 3á´¸á´¼áµ‚
 http://novo1.xyz:8080/Fabiozacarias/Zacariasfabio/18855
+http://cineapp.org:8000/Fernando/Fernando/16704
+#EXTINF:-1,|PT| MOTORSPORT TV
+http://cineapp.org:8000/Fernando/Fernando/8068
+#EXTINF:-1,|PT| SPORTING TV HD
+http://cineapp.org:8000/Fernando/Fernando/8074
+#EXTINF:-1,|PT| PORTO CANAL
+http://cineapp.org:8000/Fernando/Fernando/2315
+#EXTINF:-1,|PT| PORTO CANAL HD
+http://cineapp.org:8000/Fernando/Fernando/28581
+#EXTINF:-1,|PT| EUROSPORT1
+http://cineapp.org:8000/Fernando/Fernando/2367
+#EXTINF:-1,|PT| EUROSPORT 1 HD
+http://cineapp.org:8000/Fernando/Fernando/28596
+#EXTINF:-1,|PT| EUROSPORT2
+http://cineapp.org:8000/Fernando/Fernando/3517
+#EXTINF:-1,|PT| EUROSPORT 2 HD
+http://cineapp.org:8000/Fernando/Fernando/28597
+#EXTINF:-1,|PT| BENFICA1
+http://cineapp.org:8000/Fernando/Fernando/2301
+#EXTINF:-1,|PT| SPORT TV+
+http://cineapp.org:8000/Fernando/Fernando/5150
+#EXTINF:-1,|PT| SPORT TV + HD
+http://cineapp.org:8000/Fernando/Fernando/28536
+#EXTINF:-1,|PT| SPORT TV + FHD
+http://cineapp.org:8000/Fernando/Fernando/28537
+#EXTINF:-1,|PT| SPORT TV 1 SD
+http://cineapp.org:8000/Fernando/Fernando/5151
+#EXTINF:-1,|PT| SPORT TV 1 HD
+http://cineapp.org:8000/Fernando/Fernando/2325
+#EXTINF:-1,|PT| SPORT TV 1 FHD
+http://cineapp.org:8000/Fernando/Fernando/28538
+#EXTINF:-1,|PT| SPORT TV 1 4K
+http://cineapp.org:8000/Fernando/Fernando/77435
+#EXTINF:-1,|PT| SPORT TV 2 SD
+http://cineapp.org:8000/Fernando/Fernando/5152
+#EXTINF:-1,|PT| SPORT TV 2 HD
+http://cineapp.org:8000/Fernando/Fernando/2295
+#EXTINF:-1,|PT| SPORT TV 2 FHD
+http://cineapp.org:8000/Fernando/Fernando/28539
+#EXTINF:-1,|PT| SPORT TV 3 SD
+http://cineapp.org:8000/Fernando/Fernando/5153
+#EXTINF:-1,|PT| SPORT TV 3 HD
+http://cineapp.org:8000/Fernando/Fernando/2296
+#EXTINF:-1,|PT| SPORT TV 3 FHD
+http://cineapp.org:8000/Fernando/Fernando/28540
+#EXTINF:-1,|PT| SPORT TV 4 SD
+http://cineapp.org:8000/Fernando/Fernando/28541
+#EXTINF:-1,|PT| SPORT TV 4 HD
+http://cineapp.org:8000/Fernando/Fernando/2297
+#EXTINF:-1,|PT| SPORT TV 4 FHD
+http://cineapp.org:8000/Fernando/Fernando/28542
+#EXTINF:-1,|PT| SPORT TV 5 SD
+http://cineapp.org:8000/Fernando/Fernando/28543
+#EXTINF:-1,|PT| SPORT TV 5 HD
+http://cineapp.org:8000/Fernando/Fernando/2298
+#EXTINF:-1,|PT| SPORT TV 5 FHD
+http://cineapp.org:8000/Fernando/Fernando/28544
+#EXTINF:-1,|PT| SPORT TV 6 FHD
+http://cineapp.org:8000/Fernando/Fernando/82779
+#EXTINF:-1,|PT| SPORT TV NBA
+http://cineapp.org:8000/Fernando/Fernando/17260
+#EXTINF:-1,|PT| SPORT TV NBA FHD
+http://cineapp.org:8000/Fernando/Fernando/28545
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 SD
+http://cineapp.org:8000/Fernando/Fernando/28549
+#EXTINF:-1,|PT| ELEVEN SPORT1
+http://cineapp.org:8000/Fernando/Fernando/7451
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
+http://cineapp.org:8000/Fernando/Fernando/28550
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 4k
+http://cineapp.org:8000/Fernando/Fernando/77437
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 SD
+http://cineapp.org:8000/Fernando/Fernando/28551
+#EXTINF:-1,|PT| ELEVEN SPORT2
+http://cineapp.org:8000/Fernando/Fernando/7452
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
+http://cineapp.org:8000/Fernando/Fernando/28552
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 SD
+http://cineapp.org:8000/Fernando/Fernando/28553
+#EXTINF:-1,|PT| ELEVEN SPORT3
+http://cineapp.org:8000/Fernando/Fernando/7453
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
+http://cineapp.org:8000/Fernando/Fernando/28554
+#EXTINF:-1,|PT| ELEVEN SPORTS 4
+http://cineapp.org:8000/Fernando/Fernando/28555
+#EXTINF:-1,|PT| ELEVEN SPORT4
+http://cineapp.org:8000/Fernando/Fernando/7454
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 FHD
+http://cineapp.org:8000/Fernando/Fernando/28556
+#EXTINF:-1,|PT| ELEVEN SPORTS 5
+http://cineapp.org:8000/Fernando/Fernando/28557
+#EXTINF:-1,|PT| ELEVEN SPORT5
+http://cineapp.org:8000/Fernando/Fernando/7455
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 FHD
+http://cineapp.org:8000/Fernando/Fernando/28558
+#EXTINF:-1,|PT| ELEVEN SPORT6
+http://cineapp.org:8000/Fernando/Fernando/7456
+#EXTINF:-1,|PT| ELEVEN SPORTS 6
+http://cineapp.org:8000/Fernando/Fernando/28559
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 FHD
+http://cineapp.org:8000/Fernando/Fernando/28560
+#EXTINF:-1,|PT| Benfica TV FHD
+http://cineapp.org:8000/Fernando/Fernando/28546
+#EXTINF:-1,|PT|  Benfica TV 4k
+http://cineapp.org:8000/Fernando/Fernando/77436
+#EXTINF:-1,|PT| SPORTING TV SD
+http://cineapp.org:8000/Fernando/Fernando/28547
+#EXTINF:-1,|PT| SPORTING TV FHD
+http://cineapp.org:8000/Fernando/Fernando/28548
+#EXTINF:-1,|PT| A BOLA TV SD
+http://cineapp.org:8000/Fernando/Fernando/28561
+#EXTINF:-1,|PT| A BOLA TV HD
+http://cineapp.org:8000/Fernando/Fernando/28562
+#EXTINF:-1,|PT| A BOLA TV FHD
+http://cineapp.org:8000/Fernando/Fernando/28563
+#EXTINF:-1,|PT| CANAL 11
+http://cineapp.org:8000/Fernando/Fernando/28564
+#EXTINF:-1,|PT| CANAL 11 HD
+http://cineapp.org:8000/Fernando/Fernando/28565
+#EXTINF:-1,|PT| CANAL 11 FHD
+http://cineapp.org:8000/Fernando/Fernando/28566
+#EXTINF:-1,|PT| PFC SD
+http://cineapp.org:8000/Fernando/Fernando/28598
+#EXTINF:-1,|PT| FUEL TV FHD
+http://cineapp.org:8000/Fernando/Fernando/28599
+#EXTINF:-1,|PT| FUEL TV HD
+http://cineapp.org:8000/Fernando/Fernando/28600
+#EXTINF:-1,|PT| TOROS TV HD
+http://cineapp.org:8000/Fernando/Fernando/28601
+#EXTINF:-1,|PT| CAMPO PEQUENO TV HD
+http://cineapp.org:8000/Fernando/Fernando/28602
+#EXTINF:-1,|PT| CAÃ‡A & PESCA FHD
+http://cineapp.org:8000/Fernando/Fernando/28603
+#EXTINF:-1,|PT| CACAVISION SD
+http://cineapp.org:8000/Fernando/Fernando/28604
+#EXTINF:-1,|PT| Outdoor
+http://cineapp.org:8000/Fernando/Fernando/28605
+#EXTINF:-1,|PT| RED BUL TV HD
+http://cineapp.org:8000/Fernando/Fernando/28606
+#EXTINF:-1,|PT| GINX HD
+http://cineapp.org:8000/Fernando/Fernando/28607
+#EXTINF:-1,|PT| WWE HD
+http://cineapp.org:8000/Fernando/Fernando/28608
+#EXTINF:-1,|PT| COMBATE
+http://cineapp.org:8000/Fernando/Fernando/28609
+#EXTINF:-1,|PT| COMBATE HD
+http://cineapp.org:8000/Fernando/Fernando/28610
+#EXTINF:-1,|PT| COMBATE FHD
+http://cineapp.org:8000/Fernando/Fernando/28611
+#EXTINF:-1,|PT| Fight Box HD
+http://cineapp.org:8000/Fernando/Fernando/28612
+#EXTINF:-1,|PT| Fight Network
+http://cineapp.org:8000/Fernando/Fernando/28613
+#EXTINF:-1,|PT| KOMBAT SPORT SD
+http://cineapp.org:8000/Fernando/Fernando/28614
+#EXTINF:-1,|PT| UFC FIGTH PASS FHD
+http://cineapp.org:8000/Fernando/Fernando/28615
+#EXTINF:-1,|PT| NFL NETWORK HD
+#EXTINF:-1,|PT| SPORT TV 1 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77352
+#EXTINF:-1,|PT| SPORT TV 2 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77353
+#EXTINF:-1,|PT| SPORT TV 3 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77354
+#EXTINF:-1,|PT| SPORT TV 4 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77355
+#EXTINF:-1,|PT| SPORT TV 5 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77356
+#EXTINF:-1,|PT| SPORT TV NBA (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77357
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77358
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77359
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77360
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77361
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77362
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77363
+#EXTINF:-1,|PT| BTV (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77364
+#EXTINF:-1,SPORT TV 1 LOW
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516175.ts
+#EXTINF:-1,SPORT TV 1 HD 1Mb
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516176.ts
+#EXTINF:-1,SPORT TV 1
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516177.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516178.ts
+#EXTINF:-1,SPORT TV 1 HD á´´áµ‰áµ›á¶œ
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516179.ts
+#EXTINF:-1,Sport TV 1 FHD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516180.ts
+#EXTINF:-1,SPORT TV 1 FHD á´´áµ‰áµ›á¶œ
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516181.ts
+#EXTINF:-1,SPORT TV 1 UHD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516182.ts
+#EXTINF:-1,SPORT TV 2 LOW
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516183.ts
+#EXTINF:-1,SPORT TV 2
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516184.ts
+#EXTINF:-1,SPORT TV 2 HD á´´áµ‰áµ›á¶œ
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516185.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516186.ts
+#EXTINF:-1,SPORT TV 2 FHD á´´áµ‰áµ›á¶œ
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516187.ts
+#EXTINF:-1,SPORT TV 2 FHD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516188.ts
+#EXTINF:-1,SPORT TV 3 LOW
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516189.ts
+#EXTINF:-1,SPORT TV 3
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516190.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516191.ts
+#EXTINF:-1,SPORT TV 3 HD á´´áµ‰áµ›á¶œ
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516192.ts
+#EXTINF:-1,SPORT TV 3 FHD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516193.ts
+#EXTINF:-1,SPORT TV 4
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516194.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516195.ts
+#EXTINF:-1,SPORT TV 4 HD á´´áµ‰áµ›á¶œ
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516196.ts
+#EXTINF:-1,SPORT TV 4 FHD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516197.ts
+#EXTINF:-1,SPORT TV 5
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516198.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516199.ts
+#EXTINF:-1,SPORT TV 5 HD á´´áµ‰áµ›á¶œ
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516200.ts
+#EXTINF:-1,SPORT TV 5 FHD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516201.ts
+#EXTINF:-1,SPORT TV 6 HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516202.ts
+#EXTINF:-1,SPORT TV NBA
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516203.ts
+#EXTINF:-1,Sport TV NBA HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516204.ts
+#EXTINF:-1,SPORT TV NBA HD á´´áµ‰áµ›á¶œ
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516205.ts
+#EXTINF:-1,BTV LOW
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516206.ts
+#EXTINF:-1,BTV 1
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516207.ts
+#EXTINF:-1,BTV HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516208.ts
+#EXTINF:-1,BTV HD á´´áµ‰áµ›á¶œ
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516209.ts
+#EXTINF:-1,BTV HD 1Mb
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516210.ts
+#EXTINF:-1,BTV FHD á´´áµ‰áµ›á¶œ
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516211.ts
+#EXTINF:-1,BTV UHD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516212.ts
+#EXTINF:-1,BTV FHD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516213.ts
+#EXTINF:-1,ELEVEN SPORTS 1 LOW
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516214.ts
+#EXTINF:-1,ELEVEN SPORTS 1
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516215.ts
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516216.ts
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516217.ts
+#EXTINF:-1,ELEVEN SPORTS 1 HD á´´áµ‰áµ›á¶œ
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516218.ts
+#EXTINF:-1,ELEVEN SPORTS 1 FHD á´´áµ‰áµ›á¶œ
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516219.ts
+#EXTINF:-1,ELEVEN SPORTS 1 UHD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516220.ts
+#EXTINF:-1,ELEVEN SPORTS 2 LOW
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516221.ts
+#EXTINF:-1,ELEVEN SPORTS 2
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516222.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516223.ts
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516224.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD á´´áµ‰áµ›á¶œ
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516225.ts
+#EXTINF:-1,ELEVEN SPORTS 2 FHD á´´áµ‰áµ›á¶œ
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516226.ts
+#EXTINF:-1,ELEVEN SPORTS 3
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516227.ts
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516228.ts
+#EXTINF:-1,ELEVEN SPORTS 4
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516229.ts
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516230.ts
+#EXTINF:-1,ELEVEN SPORTS 5
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516231.ts
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516232.ts
+#EXTINF:-1,ELEVEN SPORTS 6
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516233.ts
+#EXTINF:-1,SPORT TV 6 LOW
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516234.ts
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516235.ts
+#EXTINF:-1,SPORT TV 6 HD á´´áµ‰áµ›á¶œ
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516236.ts
+#EXTINF:-1,PFC
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516237.ts
+#EXTINF:-1,SPORTING TV
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516238.ts
+#EXTINF:-1,SPORTING TV HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516239.ts
+#EXTINF:-1,EUROSPORT 1
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516240.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516241.ts
+#EXTINF:-1,EUROSPORT 2
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516242.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516243.ts
+#EXTINF:-1,Extreme Sport
+http://tuercatv2021.dynns.com:8080/live/Iptvr2022d/abono/516244.ts
